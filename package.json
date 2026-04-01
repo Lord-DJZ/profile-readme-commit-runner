@@ -1,0 +1,23 @@
+{
+  "name": "profile-readme-commit-runner",
+  "version": "1.0.0",
+  "description": "Interactive CLI for creating backdated GitHub profile README commits.",
+  "author": "Lord-DJZ",
+  "license": "MIT",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "readme",
+    "profile",
+    "commits",
+    "cli"
+  ],
+  "dependencies": {
+    "simple-git": "^3.33.0"
+  }
+}
