@@ -3,8 +3,16 @@
   "version": "1.0.0",
   "description": "Interactive CLI for creating backdated GitHub profile README commits.",
   "author": "Lord-DJZ",
+  "homepage": "https://github.com/Lord-DJZ/profile-readme-commit-runner#readme",
   "license": "MIT",
   "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/Lord-DJZ/profile-readme-commit-runner/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lord-DJZ/profile-readme-commit-runner.git"
+  },
   "type": "module",
   "scripts": {
     "start": "node index.js",
